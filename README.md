@@ -29,7 +29,7 @@
 
 | Project | Description | Tech Stack | Stars / Link |
 | :--- | :--- | :--- | :--- |
-| 🗄️ **[dbx](https://github.com/wang-zhengxin/dbx)** | 轻量级跨平台数据库客户端、数据库管理工具 (MySQL, Postgres, SQLite, Redis 等) | `Database` `Cross-Platform` | ![Stars](https://img.shields.io/github/stars/wang-zhengxin/dbx?style=social) |
+| 🗄️ **[dbx](https://github.com/wang-zhengxin/dbx)** | 轻量级跨平台数据库客户端、数据库管理工具 (MySQL, Postgres, SQLite, Redis 等) | `Database` `Cross-Platform` | ![Stars](https://img.shields.io/github/stars/t8y2/dbx?style=social) |
 | 🛡️ **[pr-compliance-loop](https://github.com/wang-zhengxin/pr-compliance-loop)** | 确定性、配置驱动的 PR 变更风险门禁汇总与分析工具 | `DevOps` `CI/CD` | ![Stars](https://img.shields.io/github/stars/wang-zhengxin/pr-compliance-loop?style=social) |
 | 🤖 **[LangChain4j](https://github.com/wang-zhengxin/langchain4j)** | Java LLM 应用框架，支持 Tool Calling, Agents & RAG | `Java` `LLM` `RAG` | ![Stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social) |
 | 👥 **[AgentTeams](https://github.com/wang-zhengxin/AgentTeams)** | Collaborative Multi-Agent OS via Matrix rooms | `Multi-Agent` `OS` | ![Stars](https://img.shields.io/github/stars/wang-zhengxin/AgentTeams?style=social) |
