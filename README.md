@@ -29,12 +29,13 @@
 
 | Project | Description | Tech Stack | Stars / Link |
 | :--- | :--- | :--- | :--- |
+| 📄 **[orchetrace](https://github.com/wang-zhengxin/orchetrace)** |  Agent 可观测工作台 | `agent` `可视化` | ![Stars](https://img.shields.io/github/stars/wang-zhengxin/orchetrace?style=social) |
 | 🗄️ **[dbx](https://github.com/wang-zhengxin/dbx)** | 轻量级跨平台数据库客户端、数据库管理工具 (MySQL, Postgres, SQLite, Redis 等) | `Database` `Cross-Platform` | ![Stars](https://img.shields.io/github/stars/t8y2/dbx?style=social) |
 | 🛡️ **[pr-compliance-loop](https://github.com/wang-zhengxin/pr-compliance-loop)** | 确定性、配置驱动的 PR 变更风险门禁汇总与分析工具 | `DevOps` `CI/CD` | ![Stars](https://img.shields.io/github/stars/wang-zhengxin/pr-compliance-loop?style=social) |
 | 🤖 **[LangChain4j](https://github.com/wang-zhengxin/langchain4j)** | Java LLM 应用框架，支持 Tool Calling, Agents & RAG | `Java` `LLM` `RAG` | ![Stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=social) |
 | 👥 **[AgentTeams](https://github.com/wang-zhengxin/AgentTeams)** | Collaborative Multi-Agent OS via Matrix rooms | `Multi-Agent` `OS` | ![Stars](https://img.shields.io/github/stars/wang-zhengxin/AgentTeams?style=social) |
 | 📑 **[T-Space](https://github.com/wang-zhengxin/T-Space)** | Chrome 暂存便签插件 | `Extension` `Chrome` | ![Stars](https://img.shields.io/github/stars/wang-zhengxin/T-Space?style=social) |
-| 📄 **[file-diff-tool](https://github.com/wang-zhengxin/file-diff-tool)** | 高效文档对比工具 | `Tooling` `Diff` | ![Stars](https://img.shields.io/github/stars/wang-zhengxin/file-diff-tool?style=social) |
+
 
 ---
 
